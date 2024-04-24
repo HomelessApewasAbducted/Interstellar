@@ -4,3 +4,8 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
+- name: Deta Space Deployment Github Action
+
+
+              
+  uses: neobrains/space-pipe@v0.5
